@@ -48,7 +48,37 @@ table {
 }
 h1 {
   font-family: 'PT Sans Caption', sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+p:first-of-type {
+  color: grey;
+  line-height: 32px;
+  letter-spacing: 1px;
+  font-size: 25px;
+
+
+
 }
 p{
   font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+
+
+}
+body {
+background-image: url(dc-online-media-mockup.jpg);
+background-size: 800px 20624px;
+background-position: top center;
+background-repeat: no-repeat;
+}
+body{
+  width: 700px;
+  margin-top: 69px;
+  margin-right: auto;;
+  margin-bottom: 0;
+  margin-left: auto;
+  marg
 }
